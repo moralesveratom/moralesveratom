@@ -5,6 +5,7 @@
 
 ### 💪 My hard skills:
 - Python
+- Selenium
 - Git
 - JavaScript
 - HTML 5
