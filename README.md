@@ -1,4 +1,4 @@
 # print('Hi there! 👋')
 
 - 👨‍💻 I’m currently working as Test Analyst
-- 🤓 I’m currently learning python, databases and other technologies
+- 🤓 I’m currently learning python, mysql and other technologies
