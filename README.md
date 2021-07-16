@@ -3,14 +3,14 @@
 - 👨‍💻 I’m currently working as Test Analyst
 - 🤓 I’m currently learning python, mysql and other technologies
 
-### My hard skills:
+### 💪 My hard skills:
 - Python
 - Git
 - JavaScript
 - HTML 5
 - CSS 3
 
-- ### My soft skills:
+### 👥 My soft skills:
 - Empathy
 - Team Leadership
 - Easily Adaptable
